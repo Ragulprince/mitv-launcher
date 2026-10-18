@@ -12,7 +12,9 @@ What you end up with:
 - Wallpapers that crossfade every minute (only while the launcher is on screen).
 - Xiaomi/Google bloat removed, the Google TV home disabled.
 
-Tested on: **Xiaomi MiTV-AXFR2**, Android 14 (API 34), 1.5 GB RAM, 1280x720 UI.
+Tested on: **Xiaomi MiTV-AXFR2**, Android 14 (API 34), 1.5 GB RAM, 1280x720 UI. Other TVs are untested.
+
+**Want to set this up on your own TV? Follow [INSTALL.md](INSTALL.md)** (step-by-step, compatibility notes, undo).
 
 > Everything below is reversible. Nothing is deleted from the system partition. A factory reset undoes all of it.
 
@@ -183,6 +185,7 @@ adb shell am start -a android.intent.action.VIEW \
 ## 7. Layout of the repo
 
 ```
+README.md  INSTALL.md
 app/src/main/java/dev/tvlauncher/MainActivity.java
 app/src/main/AndroidManifest.xml
 app/src/main/assets/wall/            (put your wallpapers here)
