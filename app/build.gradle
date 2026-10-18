@@ -1,0 +1,13 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'dev.tvlauncher'
+    compileSdk 35
+    defaultConfig {
+        applicationId 'dev.tvlauncher'
+        minSdk 29
+        targetSdk 34
+        versionCode 1
+        versionName '1.0'
+    }
+}

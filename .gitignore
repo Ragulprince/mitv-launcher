@@ -1,0 +1,7 @@
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+# Personal wallpapers (third-party photos): keep them local, see README.
+app/src/main/assets/wall/*.jpg
