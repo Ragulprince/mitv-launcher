@@ -12,6 +12,9 @@ What you end up with:
 - Wallpapers that crossfade every minute (only while the launcher is on screen).
 - Xiaomi/Google bloat removed, the Google TV home disabled.
 
+> **Newer state of the project:** the dock, favourites poster wall and mood deck were redesigned on 2026-10-23.
+> See [memory/2026-10-23-home-screen-customisation.md](memory/2026-10-23-home-screen-customisation.md); where it differs from the text below, it wins.
+
 Tested on: **Xiaomi MiTV-AXFR2**, Android 14 (API 34), 1.5 GB RAM, 1280x720 UI. Other TVs are untested.
 
 **Want to set this up on your own TV? Follow [INSTALL.md](INSTALL.md)** (step-by-step, compatibility notes, undo).
